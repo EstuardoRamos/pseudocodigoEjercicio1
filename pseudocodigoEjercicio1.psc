@@ -8,8 +8,7 @@ Algoritmo  pseudocodigoEjercicio1
 		si num mod 2=0 Entonces
 			pares=pares+1;
 		FinSi
-		
 	FinPara
 	impa=n-pares;
-	Escribir "Hay ",pares " numeros pares y ",impa, " numeros impares";
+	Escribir "Hay ",pares " numeros pares y ",impa, " numeros impares  ";
 FinAlgoritmo
